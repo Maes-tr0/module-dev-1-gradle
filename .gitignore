@@ -25,10 +25,11 @@ gradle-wrapper.jar
 # Compiled class files
 *.class
 
-# JAR, WAR, and EAR files
 *.jar
 *.war
+*.nar
 *.ear
+*.zip
+*.tar.gz
+*.rar
 
-# Node modules (if applicable)
-node_modules/
