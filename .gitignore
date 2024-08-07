@@ -1,0 +1,34 @@
+# Gradle specific
+.gradle/
+build/
+
+# Gradle Wrapper
+gradle-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Log files
+*.log
+
+# Compiled class files
+*.class
+
+# JAR, WAR, and EAR files
+*.jar
+*.war
+*.ear
+
+# Node modules (if applicable)
+node_modules/
